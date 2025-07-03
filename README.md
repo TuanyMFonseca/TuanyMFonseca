@@ -16,6 +16,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### Plataformas / Ambientes:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### Frameworks & Bibliotecas:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -34,6 +40,13 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ---
+
+
+---
+
+## 📊 Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanyMFonseca&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 > Veja meus repositórios para acompanhar meu progresso e colaborações!
 -![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanyMFonseca&show_icons=true&theme=radical)
