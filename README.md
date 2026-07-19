@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👩‍💻  Sobre mim
 
 Desenvolvedora Back-end com sólida formação em **Análise e Desenvolvimento de Sistemas** (último período), experiência no desenvolvimento de **APIs REST**, aplicações **Full Stack**, **sistemas empresariais** e soluções seguras.
 
@@ -132,10 +132,10 @@ Estudo contínuo e prática de segurança ofensiva e defensiva:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TuanyMFonseca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanyMFonseca&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TuanyMFonseca&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -162,3 +162,5 @@ Estudo contínuo e prática de segurança ofensiva e defensiva:
 *"Código de qualidade, segurança por padrão e aprendizado contínuo — todos os dias um pouco melhor."*
 
 </div>
+
+
