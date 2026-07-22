@@ -94,7 +94,7 @@ Desenvolvedora Back-end com sólida formação em **Análise e Desenvolvimento d
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🏥 **[Sistema de Agendamento Médico](https://github.com/SEU-USUARIO/repo)** | Gerenciamento completo de consultas, pacientes e lembretes automáticos por e-mail | Node.js · Express · React · MySQL · Sequelize |
+| 🏥 **[Sistema de Agendamento Médico](https://github.com/TuanyMFonseca/Sistema-de-Agendamento-Medico)** | Gerenciamento completo de consultas, pacientes e lembretes automáticos por e-mail | Node.js · Express · React · MySQL · Sequelize |
 | 🛒 **[Sistema PDV](https://github.com/SEU-USUARIO/repo)** | Sistema comercial com controle de estoque, caixa, financeiro e relatórios | Java · Spring Boot · React · PostgreSQL · Docker |
 | 🏨 **[Sistema para Hotel](https://github.com/SEU-USUARIO/repo)** | Gestão de reservas, quartos, check-in e check-out | Node.js · Express · React · MySQL · JWT |
 | 🌐 **[Landing Pages](https://github.com/SEU-USUARIO/repo)** | Páginas modernas, responsivas e otimizadas para SEO e conversão | React · Tailwind CSS · JavaScript |
