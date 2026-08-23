@@ -128,17 +128,6 @@ Estudo contínuo e prática de segurança ofensiva e defensiva:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TuanyMFonseca&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanyMFonseca&layout=compact&theme=tokyonight" height="180em"/>
-
-</div>
-
----
 
 ## 🌐 Idiomas
 
