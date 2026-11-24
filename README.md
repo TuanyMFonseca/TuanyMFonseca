@@ -1,154 +1,186 @@
+<!-- BANNER -->
 <div align="center">
 
-# Olá, eu sou Tuany Fonseca. 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1626,55:14213D,100:FF6B2C&height=190&section=header&text=TUANY%20FONSECA&fontSize=42&fontColor=F4F1EA&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20BACK-END%20FOCUS&descSize=15&descAlignY=58&animation=fadeIn" />
 
-### Desenvolvedora Back-end | Full Stack Developer | Cybersecurity Enthusiast
+### Construo sistemas. Estudo como eles falham.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuany-fonseca/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuanyMFonseca)
-[![Portfólio](https://img.shields.io/badge/Portfólio-2E5AAC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seuportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanyfonseca.tech@gmail.com)
+Desenvolvimento de software • Back-end • Segurança de aplicações
+
+[![Instagram](https://img.shields.io/badge/Instagram-@tuanyfonseca__dev-14213D?style=for-the-badge&logo=instagram&logoColor=FF6B2C)](https://www.instagram.com/tuanyfonseca_dev)
+[![X](https://img.shields.io/badge/X-@tuanyfonsecadev-14213D?style=for-the-badge&logo=x&logoColor=F4F1EA)](https://x.com/tuanyfonsecadev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-14213D?style=for-the-badge&logo=linkedin&logoColor=FF6B2C)](https://www.linkedin.com/in/tuanymfonseca/)
+[![Email](https://img.shields.io/badge/Email-Contato-FF6B2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanyfonseca.tech@gmail.com)
 
 </div>
 
 ---
 
-## 👩‍💻  Sobre mim
+## 👩🏻‍💻 &nbsp; WHO AM I?
 
-Desenvolvedora Back-end com sólida formação em **Análise e Desenvolvimento de Sistemas** (último período), experiência no desenvolvimento de **APIs REST**, aplicações **Full Stack**, **sistemas empresariais** e soluções seguras.
+Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e atuo em projetos de desenvolvimento Full Stack, com foco principal em Back-end.
 
-- 🔭 Atualmente desenvolvendo projetos com **Node.js**, **Java + Spring Boot** e **Python**
-- 🛡️ Estudando **Segurança da Informação** e **Web Pentest** na prática (Hack The Box, TryHackMe)
-- 🌱 Aprendendo constantemente sobre **DevOps**, **Cloud** e **arquitetura de software**
-- 💼 Aberto a oportunidades como Desenvolvedor Back-end, Full Stack, Java, Node.js ou Analista de Segurança da Informação
-- 📫 Como entrar em contato: veja a seção [Contato](#-contato)
+Gosto de entender como as aplicações funcionam por dentro: desde a arquitetura e construção de APIs até bancos de dados, autenticação e segurança.
+
+Mais do que escrever código, busco construir soluções funcionais, organizadas e que resolvam problemas reais.
+
+```js
+const tuany = {
+  role: "Full Stack Developer",
+  focus: "Back-end Development",
+  languages: ["JavaScript", "Java", "Python"],
+  currentlyExploring: [
+    "Software Architecture",
+    "Application Security",
+    "Cybersecurity"
+  ],
+  mindset: "Build. Break. Learn. Improve."
+};
+```
 
 ---
 
-## 🛠️ Tecnologias
+## ⚡ &nbsp; TECH STACK
 
-**Linguagens**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### BACK-END
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python&theme=dark" />
+
+### FRONT-END
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,vite&theme=dark" />
+
+### DATABASES
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+
+### TOOLS & INFRASTRUCTURE
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 &nbsp; FEATURED PROJECTS
+
+Projetos que representam minha experiência prática com desenvolvimento de sistemas, APIs, organização de aplicações e resolução de problemas.
+
+### 🏨 01. Hotel Reception Management System
+
+**Sistema de gestão hoteleira**
+
+Uma solução para centralizar as operações de recepção de hotéis, pousadas e hospedagens, incluindo reservas, hóspedes, quartos e controle de ocupação.
+
+**Principais funcionalidades:**
+- Gerenciamento de hóspedes e quartos.
+- Controle de reservas, check-in e check-out.
+- Dashboard administrativo.
+- Mapa de ocupação.
+- Relatórios e controle financeiro.
+
+**Stack:**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Back-end**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Front-end**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Banco de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-14213D?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=14213D)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-FF6B2C?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-14213D?style=for-the-badge&logo=github&logoColor=F4F1EA)](https://github.com/TuanyMFonseca/Hotel-Reception-Management-System)
+
+---
+
+### 🏥 02. Sistema de Agendamento Médico
+
+**Plataforma Full Stack para gerenciamento de consultas**
+
+Aplicação desenvolvida para organizar o gerenciamento de pacientes, profissionais e consultas em clínicas e consultórios.
+
+**Principais funcionalidades:**
+- Cadastro de pacientes e médicos.
+- Agendamento e calendário interativo.
+- Dashboard administrativo.
+- Lembretes de consultas por e-mail.
+- Autenticação e proteção de rotas.
+- Relatórios gerenciais.
+
+**Stack:**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=14213D)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-FF6B2C?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-
-**Segurança**
-
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![HTTPS](https://img.shields.io/badge/HTTPS-005571?style=flat-square&logo=letsencrypt&logoColor=white)
-
-**Redes**
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-003366?style=flat-square&logo=cisco&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-4A90D9?style=flat-square)
-![Firewall](https://img.shields.io/badge/Firewall-6E6E6E?style=flat-square)
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-14213D?style=for-the-badge&logo=github&logoColor=F4F1EA)](https://github.com/TuanyMFonseca/Sistema-de-Agendamento-Medico)
 
 ---
 
-## 🎯 Áreas de atuação
-
-`Desenvolvimento Back-end` · `Full Stack Development` · `APIs REST` · `Sistemas Empresariais` · `Sistemas PDV` · `Landing Pages` · `DevOps` · `Segurança da Informação` · `Cybersecurity`
-
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🏥 **[Sistema de Agendamento Médico](https://github.com/TuanyMFonseca/Sistema-de-Agendamento-Medico)** | Gerenciamento completo de consultas, pacientes e lembretes automáticos por e-mail | Node.js · Express · React · MySQL · Sequelize |
-| 🛒 **[Sistema PDV](https://github.com/SEU-USUARIO/repo)** | Sistema comercial com controle de estoque, caixa, financeiro e relatórios | Java · Spring Boot · React · PostgreSQL · Docker |
-| 🏨 **[Sistema para Hotel](https://github.com/SEU-USUARIO/repo)** | Gestão de reservas, quartos, check-in e check-out | Node.js · Express · React · MySQL · JWT |
-| 🌐 **[Landing Pages](https://github.com/SEU-USUARIO/repo)** | Páginas modernas, responsivas e otimizadas para SEO e conversão | React · Tailwind CSS · JavaScript |
-| 🔐 **[Sistema Login JWT](https://github.com/SEU-USUARIO/repo)** | Autenticação segura com JWT e boas práticas de segurança | Node.js · Express · JWT |
-| 🔌 **[APIs REST](https://github.com/SEU-USUARIO/repo)** | APIs RESTful seguras, documentadas e com arquitetura escalável | Node.js · Fastify · Spring Boot |
-| 📊 **[Dashboards Administrativos](https://github.com/SEU-USUARIO/repo)** | Painéis de gestão e visualização de dados | React · Node.js |
-| 🏢 **[Sites Institucionais](https://github.com/SEU-USUARIO/repo)** | Sites institucionais responsivos para empresas | React · HTML · CSS |
-
-> Veja todos os repositórios fixados no perfil ⭐
-
----
-
-## 🛡️ Cybersecurity
-
-Estudo contínuo e prática de segurança ofensiva e defensiva:
-
-- 🎯 **Hack The Box** — resolução de máquinas e desafios práticos
-- 🚩 **TryHackMe** — trilhas de segurança web e fundamentos de pentest
-- 📖 **Write-ups técnicos** — documentação de aprendizados e soluções
-- ✅ **OWASP Top 10** — estudo e aplicação das principais vulnerabilidades web
-- 🧪 **Laboratórios práticos** — reconhecimento, enumeração e análise de vulnerabilidades
-
----
-
-## 📜 Certificados
-
-- 🎓 Bootcamp Santander — Cibersegurança (2025)
-- 🎓 Bootcamp Santander — Preparatório AWS
-- 🎓 Bootcamp Claro — Java com Spring Boot
-- 🎓 Bootcamp meutudo — Mobile Developer
-
----
-
-
-## 🌐 Idiomas
-
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Intermediário
-- 🇪🇸 Espanhol — Básico
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-2E5AAC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seuportfolio.com)
-
----
+## 🔐 &nbsp; CYBERSECURITY LABS
 
 <div align="center">
 
-*"Código de qualidade, segurança por padrão e aprendizado contínuo — todos os dias um pouco melhor."*
+<img src="https://img.shields.io/badge/SECURITY-RESEARCH-14213D?style=for-the-badge&logo=hackthebox&logoColor=FF6B2C" />
+<img src="https://img.shields.io/badge/HANDS--ON-LEARNING-FF6B2C?style=for-the-badge&logo=tryhackme&logoColor=14213D" />
 
 </div>
 
+A segurança também faz parte da minha jornada como desenvolvedora.
 
+Mantenho um repositório dedicado à documentação de laboratórios, CTFs, write-ups e aprendizados práticos realizados em ambientes de treinamento autorizados.
+
+**Áreas de estudo:**
+
+- Web Security e OWASP Top 10.
+- Reconhecimento e enumeração.
+- Análise de vulnerabilidades.
+- Network Security.
+- Linux e Privilege Escalation.
+- Digital Forensics e análise de logs.
+- Segurança de APIs e controle de acesso.
+
+**Plataformas e ferramentas:**
+
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-14213D?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<div align="center">
+
+[![Cybersecurity Labs](https://img.shields.io/badge/EXPLORE%20MY%20LABS-14213D?style=for-the-badge&logo=github&logoColor=F4F1EA)](https://github.com/TuanyMFonseca/Cybersecurity_Labs)
+
+</div>
+
+---
+
+## 📚 &nbsp; EDUCATION & CONTINUOUS LEARNING
+
+- 🎓 Análise e Desenvolvimento de Sistemas — concluído.
+- 🔐 Santander — Cibersegurança (2025).
+- ☁️ Santander — Preparatório AWS (2024).
+- ☕ Claro — Java Spring Boot.
+- 📱 meutudo — Mobile Developer.
+
+Acredito que tecnologia exige aprendizado contínuo. Estou sempre explorando novas ferramentas, aprimorando meus projetos e documentando minha evolução.
+
+---
+
+## 🤝 &nbsp; LET'S CONNECT
+
+Tenho interesse em oportunidades na área de desenvolvimento, projetos colaborativos e conexões com profissionais de tecnologia.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanymfonseca/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF6B2C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuanyfonseca_dev)
+[![X](https://img.shields.io/badge/Follow%20on%20X-14213D?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tuanyfonsecadev)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-FF6B2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanyfonseca.tech@gmail.com)
+
+**Email:** tuanyfonseca.tech@gmail.com
+
+### Construo sistemas. Estudo como eles falham.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B2C,50:14213D,100:0E1626&height=100&section=footer" />
+
+</div>
